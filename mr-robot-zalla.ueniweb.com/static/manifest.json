@@ -1,0 +1,22 @@
+{
+	"background_color": "#FFFFFF",
+	"description": "UENI",
+	"dir": "ltr",
+	"display": "standalone",
+	"icons": [{
+		"sizes": "256x256",
+		"src": "/favicon-256.png",
+		"type": "image/png"
+	}],
+	"lang": "en-GB",
+	"name": "UENI",
+	"orientation": "portrait-primary",
+	"prefer_related_applications": false,
+	"related_applications": [],
+	"scope": "https://ueni.com/",
+	"short_name": "UENI",
+	"start_url": "https://ueni.com/",
+	"theme_color": "#000000",
+	"gcm_sender_id_comment": "For OneSignal Web Push Notifications, Do Not Change ID",
+	"gcm_sender_id": "482941778795"
+}

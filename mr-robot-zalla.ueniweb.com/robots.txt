@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /api/*
+Sitemap: https://ueniweb.com/sitemap/mr-robot-zalla.xml
+Sitemap: https://mr-robot-zalla.ueniweb.com/sitemap.xml
+Sitemap: https://ueniweb.com/sitemap-last-1000.xml
